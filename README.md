@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/home.jpg" alt="Ecrã inicial do Jellyflix: destaque em ecrã inteiro com o logótipo do filme, botões Reproduzir e Mais informações e a linha Continuar a ver" width="880" />
+  <img src="https://github.com/ST-DEVPT/Jellyflix/releases/download/imagens/home.jpg" alt="Ecrã inicial do Jellyflix: destaque em ecrã inteiro com o logótipo do filme, botões Reproduzir e Mais informações e a linha Continuar a ver" width="880" />
 </p>
 
 > Projeto pessoal, feito para a TV da sala. Funciona todos os dias — com uma biblioteca de 206 filmes, 71 séries e
@@ -23,16 +23,16 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="docs/images/home-linhas.jpg" alt="Linhas da Home: o cartão focado cresce e mostra o título, o ano e a duração; por baixo, o Top 10 numerado" /></td>
-    <td width="50%"><img src="docs/images/detalhes.jpg" alt="Detalhes de um filme por cima da Home, com as etiquetas 4K, HDR, HEVC 10-bit, Dolby Atmos, Dolby TrueHD e 7.1" /></td>
+    <td width="50%"><img src="https://github.com/ST-DEVPT/Jellyflix/releases/download/imagens/home-linhas.jpg" alt="Linhas da Home: o cartão focado cresce e mostra o título, o ano e a duração; por baixo, o Top 10 numerado" /></td>
+    <td width="50%"><img src="https://github.com/ST-DEVPT/Jellyflix/releases/download/imagens/detalhes.jpg" alt="Detalhes de um filme por cima da Home, com as etiquetas 4K, HDR, HEVC 10-bit, Dolby Atmos, Dolby TrueHD e 7.1" /></td>
   </tr>
   <tr>
     <td align="center"><sub>Linhas de cartões que crescem com o foco, e Top 10 numerado</sub></td>
     <td align="center"><sub>Detalhes com o que o ficheiro tem por dentro: 4K, HDR, Atmos, 7.1…</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="docs/images/perfis.jpg" alt="Quem está a ver? — escolha de perfil" /></td>
-    <td width="50%"><img src="docs/images/biblioteca.jpg" alt="Grelha de cartazes da biblioteca" /></td>
+    <td width="50%"><img src="https://github.com/ST-DEVPT/Jellyflix/releases/download/imagens/perfis.jpg" alt="Quem está a ver? — escolha de perfil" /></td>
+    <td width="50%"><img src="https://github.com/ST-DEVPT/Jellyflix/releases/download/imagens/biblioteca.jpg" alt="Grelha de cartazes da biblioteca" /></td>
   </tr>
   <tr>
     <td align="center"><sub>«Quem está a ver?», um perfil por pessoa</sub></td>
