@@ -46,7 +46,7 @@ do autor. As capas pertencem aos respetivos detentores.</sub>
 ## O que faz
 
 **Navegar como na Netflix.** Menu superior com as secções, destaque que roda sozinho e toca o trailer, cartões 16:9
-que abrem com o foco e mostram o preview lá dentro, Top 10 numerado, «Reproduzir algo», Minha Lista e grelha por
+que abrem com o foco e mostram o preview lá dentro, Top 10 numerado, «Reproduzir algo», A minha lista e grelha por
 género. Os menus, os teclados no ecrã e o comportamento do Back seguem o que se espera numa TV — nenhum clique se
 perde e a primeira tecla nunca é gasta só a tirar o foco de um grupo.
 
@@ -70,9 +70,13 @@ programação do dia ao lado.
 e saltar nesta TV, pelo WebSocket do próprio servidor (nada de Cast nem DLNA).
 
 **Ver em grupo e à distância.** «Reproduzir aqui» a partir do telemóvel, lista de sessões abertas no servidor e SyncPlay
-para ver o mesmo título, ao mesmo tempo, com outros ecrãs. Velocidade de reprodução de 0,75× a 2×.
+para ver o mesmo título, ao mesmo tempo, com outros ecrãs. Velocidade de reprodução de 0,75× a 2×, áudio e legendas
+lembrados por série e, opcional, a TV a mudar para a cadência do vídeo (24p/25p).
 
-**Perfis com PIN.** Um PIN numérico opcional por perfil, guardado só na TV, com teclado só de números.
+**Perfis com PIN.** Um PIN numérico opcional por perfil, guardado só na TV, com teclado só de números, bloqueio depois
+de tentativas erradas e «Esqueci-me do PIN».
+
+**Em português e inglês**, conforme a língua da TV.
 
 **Mais formas de descobrir.** Géneros, estúdios, coleções e a lista «Para ver juntos», tudo no mesmo menu.
 
@@ -115,6 +119,18 @@ O botão aparece quando se sabe onde estão esses segmentos. A app procura, por 
 5. sem nada disto, um **salto estimado** nos primeiros minutos do episódio (nunca automático — é um palpite).
 
 Em *Estatísticas*, dentro do leitor, vê-se o que cada fonte deu («plugin não instalado», «sem ID do TMDB», …).
+
+## Privacidade
+
+A app fala sobretudo com o teu servidor Jellyfin. Fora dele: o [TheIntroDB](https://theintrodb.org) recebe o ID do TMDB
+do que vês, para saber onde está a introdução (desliga-se nas Definições); o YouTube recebe o pedido do trailer; o GitHub
+recebe a procura de versões novas (também se desliga). Sem publicidade, sem estatísticas de uso e sem contas de
+terceiros. As licenças dos componentes de código aberto estão em Definições › Licenças de código aberto.
+
+## Reportar um problema
+
+Abre uma [issue](https://github.com/ST-DEVPT/Jellyflix/issues) com a versão (Definições › Sobre), o modelo da TV e o que
+aconteceu. Se a app fechou sozinha, no arranque seguinte aparece um ecrã com o erro: uma fotografia dele ajuda muito.
 
 ## Créditos
 
